@@ -40,7 +40,7 @@ Contribution in Web Development under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 
 1. Introduction to ReactJS
 2. Application Programming Interfaces (APIs) with ReactJS
-    * RESTful API's
+    * REST API's
     * GraphQL API's
 3. Front-end Routing in ReactJS (React Router)
 4. React Hooks
@@ -49,9 +49,8 @@ Contribution in Web Development under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 
 ### Module 5
 >Back-end JavaScript Development
-1.  Back-end Development with NodeJS
-2. Back-end Development with NodeJS Frameworks: ExpressJS
-3. Build Your Own REST API with ExpressJS
+1. Back-end Development with NodeJS and ExpressJS
+2. Build Your Own REST API with ExpressJS
 4. Integrate Front-end with Back-end API's
 
 ### Module 6
@@ -65,17 +64,15 @@ Contribution in Web Development under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
 ### Module 7
 > Databases
 
- 1.  Overview of Databases
- 2. Structured Query Language (SQL)
+ 1. Overview of Databases
+ 2. Structured Query Language (SQL) and NoSQL (MongoDB)
  3. Deep Dive: Databases
- 4. Full Stack: React, Express, and MySQL
- 5. TypeORMs - Sequelize
+ 4. TypeORMs - Sequelize
  
 ### Module 8
 >  Authentication
- 1.  Authentication Concepts 
- 2. Implementing Authentication
- 3. 
+ 1. Authentication Concepts - (JWT's and PassportJS) 
+ 2. Implementing Authentication  (O-Auth and other 3rd party Authentication)
 ### Module 9
 >  Other Tools, Techniques, & Third Party APIs
  1.  3rd Party APIs: Processing Payments with Stripe, RazorPay
@@ -83,14 +80,5 @@ Contribution in Web Development under DevIncept 30-DAYS CONTRIBUTOR PROGRAM.
  3. Advanced Git: Back to the Basics (Git Review)
  4.  Advanced Git: Branching, Merging, and Collaborating
  5.  Deployment: Heroku, Firebase, Netlify
- 6.  Agile Development: Introduction to Scrum
- 
-### React Native
->  
-
- 1.  Intro to React Native
- 2.  Creating a Mobile App with React Native
-
-
  
 
