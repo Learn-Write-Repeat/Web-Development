@@ -18,3 +18,5 @@
   3. Diffrence between HTML5 and its older versions
   4. Intro to metaTags, OGTags and other media tags along with manifest.xml file
   5. Intro to GoogleCards.
+  6. Intro to VanillaJS
+
