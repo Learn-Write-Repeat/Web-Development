@@ -13,9 +13,9 @@
 ## Toics that you neeed to do the research
 
 > Intro to ReactJS
-1. Why do we need a framework like ReactJS?
-2. diffrence between javascript and typescript
-3. diffrence beteeen AngularJS, ReactJS and VueJS
+1. History of front end libraries
+2. diffrence beteeen AngularJS, ReactJS and VueJS
+3. Intro to JSX
 4. How React actually performs the DOM manipulation
 5. intro to WebPack and Babel
 6. Intro to ES6 and ES7 syntax
