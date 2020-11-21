@@ -17,7 +17,8 @@
 2. diffrence between javascript and typescript
 3. diffrence beteeen AngularJS, ReactJS and VueJS
 4. How React actually performs the DOM manipulation
-5. intro to WebPack
-6. Intro to functioal component and class based components
+5. intro to WebPack and Babel
+6. Intro to ES6 and ES7 syntax
+7. Intro to functioal component and class components
    
 
