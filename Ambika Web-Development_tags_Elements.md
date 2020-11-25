@@ -98,6 +98,6 @@ Also, a block element occupies 100% of the available width and it is rendered wi
 </center>
 </table>
 <footer style="margin-top:60%;">
-<p>copyright @2019 <span style="color:red">All Rigt Reserved</span></p>
+<p>Designed and Developed@2020 <span style="color:red">All Rigt Reserved</span></p>
 </body>
 </html>
