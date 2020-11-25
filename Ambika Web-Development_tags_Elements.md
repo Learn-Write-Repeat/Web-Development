@@ -53,3 +53,51 @@ Also, a block element occupies 100% of the available width and it is rendered wi
          The right side of this page. It contains some more of the menu for this sites content, the things we could not fit on the left side.
     5. **Footer**
           The footer of this page. It contains links that are generally reserved for the footer of a webpage such as 'copyright information', 'terms of use', and a copyright             statement and a few images related to the validation of the construction of this webpage.
+          
+          
+          
+          
+          
+          
+          
+ ##Code
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Shivaji university</title>
+<meta charset="UTF-8">
+<meta name="description"content="one of the best university">
+<meta name="keyword"content="btech,MCA">
+<meta name="viewport"content="width=divice-width initial-scale="1.0"
+</head>
+<body>
+<header>
+<img src="images/aar.jpg" width="100%" height="250px">
+</header>
+<center>
+<table border="1" cellspacing="10px" cellpadding="10px" width="500px">
+<caption style="color:blue;">student data</caption></caption>
+<tr>
+<th colspan="5" /th>DOT
+</tr>
+<tr>
+<th> rollno </th>
+<th> name</th>
+<th> mark1 </th>
+<th> mark2</th>
+<th>total</th>
+</tr>
+<tr style="text-align: center; color: red">
+<td>1</td>
+<td style="color: black;">AMBIKA</td>
+<td>98</td>
+<td>98</td>
+<td>196</td>
+</tr>
+</center>
+</table>
+<footer style="margin-top:60%;">
+<p>copyright @2019 <span style="color:red">All Rigt Reserved</span></p>
+</body>
+</html>
