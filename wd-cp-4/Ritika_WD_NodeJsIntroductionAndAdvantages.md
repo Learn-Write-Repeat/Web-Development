@@ -16,7 +16,7 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 :snowflake: Node.js applications are best suited for real-time applications where the browser needs constant server support. <br>
 :snowflake: Node.js uses asynchronous programming which means it eliminates the waiting time and proceeds with the next task making it memory and speed-efficient.
 
-### Starting with Node.js
+### Starting with Node.js :heart:
 Node.js application has three main parts – importing modules , creating server and initiating a read request and return response.
 
 #### 1) Step 1 : Importing modules
@@ -77,11 +77,11 @@ $ node main.js
 *NPM( node package manager)* consists of numerous modules with solutions to a lot many problems. You can easily integrate them in your application.<br>
 
 ***7)	Miscellaneous advantages*** – 
--	Reusable code
--	Efficient performance
--	Supported by leading companies
--	Perfect for data-streaming applications
--	Useful for JSON APIs based applications
+:cactus:	Reusable code <br>
+:cactus:	Efficient performance <br>
+:cactus:	Supported by leading companies <br>
+:cactus:	Perfect for data-streaming applications <br>
+:cactus:	Useful for JSON APIs based applications <br>
 
 
 
