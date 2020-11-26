@@ -1,7 +1,6 @@
 # :computer:The Basic Styling of CSS :computer:
 
-- ## Case 1 :pushpin:
-The Basic Styling of CSS :pencil2:
+- ## The Basic Styling of CSS :pushpin:
 
 ``` html
 <!DOCTYPE html>
