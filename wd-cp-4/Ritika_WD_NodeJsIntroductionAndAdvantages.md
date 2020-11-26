@@ -1,4 +1,6 @@
 
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606382047/header_rwqohd.png">
+
 # What is NodeJs? :computer:
 
 You all have been using JavaScript for client-side applications but would like to extend its functionalities to the server-side as well. Here [Node.js](https://nodejs.org/en/) comes to the rescue! :thumbsup:
@@ -84,5 +86,5 @@ $ node main.js
 :cactus:	Useful for JSON APIs based applications <br>
 
 
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="150%" height="120%">
 
