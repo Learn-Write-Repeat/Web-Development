@@ -23,3 +23,20 @@ Node.js application has three main parts – importing modules , creating server
 
 Modules are imported using require directive and stored into a variable, <br>
 ```var http = require("http"); ```
+
+
+#### 2) Step 2: Creating Server 
+
+We use the above variable and call *createServer()* method to create server instance binding it with *listen()* method using port number 8081. <br>
+
+``` http.createServer(function (request, response) { ```
+ ```  // Send the HTTP header ```
+ ```  // HTTP Status: 200 : OK ```
+ ```  // Content Type: text/plain ```
+ ```  response.writeHead(200, {'Content-Type': 'text/plain'}); ```
+   
+ ```  // Send the response body as "Hello World" ```
+ ```  response.end('Hello World\n'); ```
+``` }).listen(8081); ```
+
+
