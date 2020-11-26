@@ -1,6 +1,6 @@
 # :computer:The Basic Styling of CSS :computer:
 
-- ## The Basic Styling of CSS :pushpin:
+- ## The Styling of CSS :pushpin:
 
 ``` html
 <!DOCTYPE html>
