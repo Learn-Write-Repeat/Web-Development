@@ -19,7 +19,7 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 :snowflake: Node.js uses asynchronous programming which means it eliminates the waiting time and proceeds with the next task making it memory and speed-efficient.
 
 ### Starting with Node.js :heart:
-Node.js application has three main parts –>
+Node.js application has three main parts –> <br>
 -importing modules <br>
 -creating server <br>
 -initiating a read request and return response. 
