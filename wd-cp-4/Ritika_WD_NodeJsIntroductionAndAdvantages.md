@@ -20,9 +20,9 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 
 ### Starting with Node.js :heart:
 Node.js application has three main parts –> <br>
--importing modules <br>
--creating server <br>
--initiating a read request and return response. 
+:green_heart: importing modules <br>
+:green_heart: creating server <br>
+:green_heart: initiating a read request and return response. 
 
 #### 1) Step 1 : Importing modules  :pushpin:
 
