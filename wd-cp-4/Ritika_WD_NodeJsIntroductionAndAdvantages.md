@@ -19,4 +19,7 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 ### Starting with Node.js
 Node.js application has three main parts – importing modules , creating server and initiating a read request and return response.
 
+#### 1) Step 1 : Importing modules
 
+Modules are imported using require directive and stored into a variable,
+```var http = require("http"); ```
