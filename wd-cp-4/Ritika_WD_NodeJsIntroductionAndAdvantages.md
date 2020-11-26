@@ -88,7 +88,7 @@ $ node main.js
 
    Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/) <br>
    I hope you gained some knowldege and had fun reading this Nodejs Readme.md <br>
-   Connect with me on [Twitter] .
+   Connect with me on [Twitter](https://twitter.com/RitikaAgrawal08).
 
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="200%" height="120%">
