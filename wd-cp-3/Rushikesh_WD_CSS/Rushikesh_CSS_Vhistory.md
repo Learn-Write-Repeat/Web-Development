@@ -11,7 +11,7 @@
 
 
   <p align="center">
-  <h2 align="center"><b>📜 Introuduction to CSS 📜 </b></h2>
+  <h2 align="center"><b>📜 Introduction to CSS 📜 </b></h2>
  <p align="center">
 Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HTML documents and to display its element more creatively. Basically it gives life to HTML Structure. 
 </p>
