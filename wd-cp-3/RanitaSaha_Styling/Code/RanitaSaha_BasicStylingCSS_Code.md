@@ -22,3 +22,8 @@
 </body>
 </html>
 ```
+
+## OUTPUT :open_mouth:
+<br>
+
+<img src="C:\Users\Ranita Saha\Downloads\RanitaSaha_Styling\Image\Basic_styling.jpg" width="500px" height="150px">
