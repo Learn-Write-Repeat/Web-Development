@@ -58,7 +58,7 @@ $ node main.js
 ***After executing above command, your web-browser will open displaying the message of “Hello World” as shown in the below screen.*** 
 <br><br>
 <p align="center">
-  <img  src="https://res.cloudinary.com/djix6uusx/image/upload/v1606379914/nodejsOutput_ph60aj.png" width="60%" height="60%">
+  <img  src="https://res.cloudinary.com/djix6uusx/image/upload/v1606385530/output_itiujb.png" width="60%" height="60%">
 </p>
 
 
