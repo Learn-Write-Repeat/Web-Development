@@ -54,7 +54,8 @@ $ node main.js
 
 |  *Note : main.js is the name used to save the above program.*
 
-***After executing above command, your web-browser will open displaying the message of “Hello World”.***
+***After executing above command, your web-browser will open displaying the message of “Hello World” as shown in the below screen.***
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606379914/nodejsOutput_ph60aj.png" >
 
 ## Advantages of Node.js –
 
