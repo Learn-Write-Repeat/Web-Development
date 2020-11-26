@@ -131,6 +131,7 @@ Then under "Open and Save", check the box that says "Display HTML files as HTML 
 > - In addition to tags and content, an element can have attributes and events. While attributes define values or properties to be used by browsers in the processing of the document, events can be employed to specify behaviors or actions to be performed when certain conditions are met, like for example, when the users clicks the element.
 
 > - Attributes and events share a common syntax: they must be inserted as a list of space-separated items inside the star tag, after the element's name and preceded by a space. Each one of these items is composed by a name (for the attribute or event), the equal sign ("=") and the value or function (sometimes optionally) enclosed by quotes. The following example shows a <'b> element with one attribute (style) and one event (onclick).
+## Click here to view the code :point_right: [Elements and Tags](wd-cp-1\Chetan_WD_IntroToHtmlCode.md)
 
 ## CONTENT
 
@@ -150,6 +151,7 @@ In the following example are three elements each containing a different type of 
 
 > - In the following example, the [<'button> element](https://www.htmlquick.com/reference/tags/button.html) has three attributes present: <b>id and acceskey</b>, which are [global attributes](), and disabled (boolean), which isn't global but is shared by a particular group of element
 
+## Click here to view the code :point_right: [Contents and Attributes](wd-cp-1\Chetan_WD_IntroToHtmlCode.md)
 
 All HTML elements can have attributes
 > - The href attribute of <'a> specifies the URL of the page the link goes to
@@ -176,6 +178,7 @@ In the following example, we'll insert a run of text with emphasis (<'em> [eleme
 > - code line 28 In this section we're going to see some examples, so you can better understand the structure of elements. First, let's start by inserting a paragraph (p element) where the first few words are higlighted to attract the user's attention. We do this by enclosing those words with the b element.
 > - code line 29 Now let's try something more complex, by adding a link. Links aren't links (this is, they don't point to another resource) if they don't have the href attribute declared. So this time we're inserting a link, using the a element, with a URI in the href attribute (these concepts will be treated subsequently).
 > - code line 30 Lastly, we're adding an image with the img element. This element requires the src attribute to be present in order to display an image. Additionally, we're declaring the alt attribute as a textual alternative of the image purpose.
+## Click here to view the code :point_right: [Events](wd-cp-1\Chetan_WD_IntroToHtmlCode.md)
 
 submitted by [Chetan Sharma](https://www.instagram.com/chetucity)
 
