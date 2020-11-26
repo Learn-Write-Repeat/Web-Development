@@ -1,7 +1,6 @@
-# :computer: The Basic Styling of CSS :computer:
+# :computer:The Basic Styling of CSS :computer:
 
-- ## Case 1 :pushpin:
-The Basic Styling of CSS :pencil2:
+- ## The Basic Styling of CSS :pencil2:
 
 ``` html
 <!DOCTYPE html>
@@ -23,12 +22,9 @@ The Basic Styling of CSS :pencil2:
 </body>
 </html>
 ```
-
 ## OUTPUT :open_mouth:
 <br>
 
-<img src="../Images/id_selector_1.png" width="500px" height="150px">
+<img src="../Images/Basic_styling.jpg" width="500px" height="150px">
 
-**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
-<br>
