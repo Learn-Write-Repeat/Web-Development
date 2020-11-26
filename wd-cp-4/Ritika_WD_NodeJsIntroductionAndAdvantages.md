@@ -29,14 +29,14 @@ Modules are imported using require directive and stored into a variable, <br>
 
 We use the above variable and call *createServer()* method to create server instance binding it with *listen()* method using port number 8081. <br>
 
-``` http.createServer(function (request, response) {  <br>
- ```  // Send the HTTP header  <br>
- ```  // HTTP Status: 200 : OK ``` <br>
- ```  // Content Type: text/plain ``` <br>
- ```  response.writeHead(200, {'Content-Type': 'text/plain'}); ``` <br>
+``` http.createServer(function (request, response) {  
+   // Send the HTTP header  
+  // HTTP Status: 200 : OK 
+  // Content Type: text/plain ``` <br>
+  response.writeHead(200, {'Content-Type': 'text/plain'}); ``` <br>
    
- ```  // Send the response body as "Hello World" ``` <br>
- ```  response.end('Hello World\n'); ``` <br>
-``` }).listen(8081); ```
+   // Send the response body as "Hello World" ``` <br>
+   response.end('Hello World\n'); ``` <br>
+}).listen(8081); ```
 
 
