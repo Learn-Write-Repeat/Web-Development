@@ -1,4 +1,4 @@
-## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's get familiar with NodeJs
+## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's get familiar with NodeJs :dolphin:
 
 # What is NodeJs? :computer:
 
@@ -20,7 +20,7 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 ### Starting with Node.js :heart:
 Node.js application has three main parts – importing modules , creating server and initiating a read request and return response.
 
-#### 1) Step 1 : Importing modules
+#### 1) Step 1 : Importing modules  :pushpin:
 
 Modules are imported using require directive and stored into a variable, <br>
 ```
@@ -28,7 +28,7 @@ var http = require("http");
 ```
 
 
-#### 2) Step 2: Creating Server 
+#### 2) Step 2: Creating Server  :pushpin:
 
 We use the above variable and call *createServer()* method to create server instance binding it with *listen()* method using port number 8081. <br>
 
@@ -45,7 +45,7 @@ http.createServer(function (request, response) {
 
 ```
 
-#### 3) Step 3: : Testing the application request and response
+#### 3) Step 3: : Testing the application request and response  :pushpin:
 
 Open command-line and execute the program by typing, <br>
 
@@ -62,7 +62,7 @@ $ node main.js
 </p>
 
 
-## Advantages of Node.js –
+## Advantages of Node.js :star: –
 
  ***1)	Easy to learn*** - it is easy to learn if you already know javascript quite well. <br>
  
