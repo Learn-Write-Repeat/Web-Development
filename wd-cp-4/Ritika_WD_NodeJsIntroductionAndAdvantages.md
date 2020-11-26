@@ -56,18 +56,18 @@ $ node main.js
 
 ***After executing above command, your web-browser will open displaying the message of “Hello World”.***
 
-# Advantages of Node.js –
+## Advantages of Node.js –
 
- ***1)	Easy to learn*** - it is easy to learn if you already know javascript quite well.
-***2)	Same language for front and back-end*** – node.js has made it easier for developers to learn just one language and use it to implement both front and back end of an application. Earlier they had to learn different languages for client and server side of a project.
-***3)	Platform Independent*** – runs on various platforms like Linux , Windows , Mac OS , Unix. Installation is easy to understand and doesn’t consume much time.
-***4)	Fast execution*** – as it uses V8 JavaScript engine , it executes code very fast.
+ ***1)	Easy to learn*** - it is easy to learn if you already know javascript quite well. <br>
+***2)	Same language for front and back-end*** – node.js has made it easier for developers to learn just one language and use it to implement both front and back end of an application. Earlier they had to learn different languages for client and server side of a project. <br>
+***3)	Platform Independent*** – runs on various platforms like Linux , Windows , Mac OS , Unix. Installation is easy to understand and doesn’t consume much time. <br>
+***4)	Fast execution*** – as it uses V8 JavaScript engine , it executes code very fast. <br>
 
-***5)	Highly Scalable*** –it uses single threaded model with event looping. It doesn’t wait for a task to complete but proceeds with another task and responds to a server in non-blocking I/O making it highly scalable in comparison to traditional servers which also uses single threaded model.
+***5)	Highly Scalable*** –it uses single threaded model with event looping. It doesn’t wait for a task to complete but proceeds with another task and responds to a server in non-blocking I/O making it highly scalable in comparison to traditional servers which also uses single threaded model. <br>
 
 
 ***6)	Community support*** – node.js has gained a lot of fame among developers which has led to the development of a reliable community. If you are stuck with a problem , chances are that someone has already gone through that similar problem and hence solved it.
-NPM( node package manager) consists of numerous modules with solutions to a lot many problems. You can easily integrate them in your application.
+NPM( node package manager) consists of numerous modules with solutions to a lot many problems. You can easily integrate them in your application.<br>
 
 ***7)	Miscellaneous advantages*** – 
 -	Reusable code
