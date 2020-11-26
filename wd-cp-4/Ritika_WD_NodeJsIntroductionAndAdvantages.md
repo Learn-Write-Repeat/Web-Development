@@ -13,9 +13,10 @@ Node.js is an open source command line tool which lets you run JavaScript on the
 3)	Collect form data and store it to a database.
 4)	Modify , delete and read data from a database.
 
-Node.js applications are best suited for real-time applications where the browser needs constant server support.
-Node.js uses asynchronous programming which means it eliminates the waiting time and proceeds with the next task making it memory and speed-efficient.
-Starting with Node.js
+- Node.js applications are best suited for real-time applications where the browser needs constant server support.
+- Node.js uses asynchronous programming which means it eliminates the waiting time and proceeds with the next task making it memory and speed-efficient.
+
+### Starting with Node.js
 Node.js application has three main parts – importing modules , creating server and initiating a read request and return response.
 
 
