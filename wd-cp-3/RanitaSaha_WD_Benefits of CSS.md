@@ -8,7 +8,7 @@
 
 <br>
 
-## Topic :- :heavy_check_mark: So here we will be taking a summary of ***The Benefits of CSS*** heavy_check_mark:
+## Topic :- :heavy_check_mark: So here we will be taking a summary of ***The Benefits of CSS*** :heavy_check_mark:
 <br>
 
 #  ***What is CSS ?*** :innocent:
