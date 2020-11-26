@@ -86,7 +86,7 @@ $ node main.js
 <br>
 <br>
 <p align="center">
-Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/).<br> 
+Written by [Ritika](https://github.com/Ritika-Agrawal811/).<br> 
    I hope you gained some knowldege and had fun reading this Nodejs Readme.md <br>
 </p>
 <p align="center">
