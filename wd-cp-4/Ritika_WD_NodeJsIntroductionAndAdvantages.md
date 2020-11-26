@@ -1,5 +1,4 @@
-## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Let's get familiar with NodeJs
+## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's get familiar with NodeJs
 
 # What is NodeJs? :computer:
 
