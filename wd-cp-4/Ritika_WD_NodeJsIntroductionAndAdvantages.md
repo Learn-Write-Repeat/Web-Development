@@ -85,6 +85,6 @@ $ node main.js
 :cactus:	Useful for JSON APIs based applications <br>
 
 <p align="center">
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="180%" height="120%">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="200%" height="120%">
  </p>
 
