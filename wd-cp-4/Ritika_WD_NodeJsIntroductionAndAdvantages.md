@@ -5,7 +5,7 @@
 You all have been using JavaScript for client-side applications but would like to extend its functionalities to the server-side as well. Here [Node.js](https://nodejs.org/en/) comes to the rescue! :thumbsup:
 Node.js is an open source command line tool which lets you run JavaScript on the server as it uses the famous V8 JavaScript Engine.
 
-| *Note: V8 is an open source JavaScript Engine developed by the Chromium Project for Google Chrome and Chromium web browsers.*
+| *Note: V8 is an open source JavaScript Engine developed by the Chromium Project for Google Chrome and Chromium web browsers.* [click here to know more.](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
 
 ### With Node.js you can :open_mouth: –>
 
@@ -55,7 +55,7 @@ $ node main.js
 
 |  *Note : main.js is the name used to save the above program.*
 
-***After executing above command, your web-browser will open displaying the message of “Hello World” as shown in the below screen.*** 
+***After executing above command, your web-browser will open displaying the message of “Hello World” as shown in the below screen.***  :eyes:
 <br><br>
 <p align="center">
   <img  src="https://res.cloudinary.com/djix6uusx/image/upload/v1606385530/output_itiujb.png" width="60%" height="60%">
@@ -64,20 +64,20 @@ $ node main.js
 
 ## Advantages of Node.js :star: –
 
- ***1)	Easy to learn*** - it is easy to learn if you already know javascript quite well. <br>
+ ***1)	Easy to learn*** :grey_exclamation:- it is easy to learn if you already know javascript quite well. <br>
  
-***2)	Same language for front and back-end*** – node.js has made it easier for developers to learn just one language and use it to implement both front and back end of an application. Earlier they had to learn different languages for client and server side of a project. <br>
+***2)	Same language for front and back-end*** :grey_exclamation: – node.js has made it easier for developers to learn just one language and use it to implement both front and back end of an application. Earlier they had to learn different languages for client and server side of a project. <br>
 
-***3)	Platform Independent*** – runs on various platforms like Linux , Windows , Mac OS , Unix. Installation is easy to understand and doesn’t consume much time. <br>
+***3)	Platform Independent*** :grey_exclamation: – runs on various platforms like Linux , Windows , Mac OS , Unix. Installation is easy to understand and doesn’t consume much time. <br>
 
-***4)	Fast execution*** – as it uses V8 JavaScript engine , it executes code very fast. <br>
+***4)	Fast execution*** :grey_exclamation: – as it uses V8 JavaScript engine , it executes code very fast. <br>
 
-***5)	Highly Scalable*** –it uses single threaded model with event looping. It doesn’t wait for a task to complete but proceeds with another task and responds to a server in non-blocking I/O making it highly scalable in comparison to traditional servers which also uses single threaded model. <br>
+***5)	Highly Scalable*** :grey_exclamation: –it uses single threaded model with event looping. It doesn’t wait for a task to complete but proceeds with another task and responds to a server in non-blocking I/O making it highly scalable in comparison to traditional servers which also uses single threaded model. <br>
 
-***6)	Community support*** – node.js has gained a lot of fame among developers which has led to the development of a reliable community. If you are stuck with a problem , chances are that someone has already gone through that similar problem and hence solved it.
+***6)	Community support*** :grey_exclamation: – node.js has gained a lot of fame among developers which has led to the development of a reliable community. If you are stuck with a problem , chances are that someone has already gone through that similar problem and hence solved it.
 *NPM( node package manager)* consists of numerous modules with solutions to a lot many problems. You can easily integrate them in your application.<br>
 
-***7)	Miscellaneous advantages*** –  <br><br>
+***7)	Miscellaneous advantages*** :grey_exclamation: –  <br><br>
 :cactus:	Reusable code <br>
 :cactus:	Efficient performance <br>
 :cactus:	Supported by leading companies <br>
