@@ -23,8 +23,9 @@
 The word cascading means that a style applied to a parent element will also apply to all children elements within the parent. So, if the user sets the color of the body text to "green," all headings, paragraphs, and other text elements within the body will also get the same color (unless we specify something else)! :wink:
 
  CSS styling can be added to HTML documents in 3 ways- :gun:
--Inline - by using the style attribute inside HTML elements.
+ 
+***Inline*** - by using the style attribute inside HTML elements :bell:
 
--Internal - by using a <style> element in the <head> section.
+***Internal*** - by using a <style> element in the <head> section :zap:
 
--External - by using a <link> element to link to an external CSS file.
+***External*** - by using a <link> element to link to an external CSS file :key:
