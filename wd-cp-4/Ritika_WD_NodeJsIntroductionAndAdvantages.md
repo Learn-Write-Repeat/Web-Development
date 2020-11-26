@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606382047/header_rwqohd.png">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606382047/header_rwqohd.png" width="180%" height="120%">
 
 # What is NodeJs? :computer:
 
@@ -86,5 +86,5 @@ $ node main.js
 :cactus:	Useful for JSON APIs based applications <br>
 
 
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="150%" height="120%">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606381865/footer_upxevk.png" width="170%" height="120%">
 
