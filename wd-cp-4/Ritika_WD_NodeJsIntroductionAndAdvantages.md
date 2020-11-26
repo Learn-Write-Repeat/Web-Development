@@ -50,7 +50,6 @@ Open command-line and execute the program by typing, <br>
 
 ```
 $ node main.js
-
 ```
 
 
