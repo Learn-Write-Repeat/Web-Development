@@ -22,7 +22,9 @@ Node.js application has three main parts – importing modules , creating server
 #### 1) Step 1 : Importing modules
 
 Modules are imported using require directive and stored into a variable, <br>
-```var http = require("http"); ```
+```
+var http = require("http"); 
+```
 
 
 #### 2) Step 2: Creating Server 
