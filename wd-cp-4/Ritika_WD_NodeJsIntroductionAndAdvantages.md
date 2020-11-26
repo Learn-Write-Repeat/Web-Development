@@ -77,7 +77,7 @@ $ node main.js
 ***6)	Community support*** – node.js has gained a lot of fame among developers which has led to the development of a reliable community. If you are stuck with a problem , chances are that someone has already gone through that similar problem and hence solved it.
 *NPM( node package manager)* consists of numerous modules with solutions to a lot many problems. You can easily integrate them in your application.<br>
 
-***7)	Miscellaneous advantages*** –  <br>
+***7)	Miscellaneous advantages*** –  <br><br>
 :cactus:	Reusable code <br>
 :cactus:	Efficient performance <br>
 :cactus:	Supported by leading companies <br>
