@@ -52,5 +52,10 @@ Open command-line and execute the program by typing, <br>
 $ node main.js
 ```
 
+| Note : main.js is the name used to save the above program.
+
+***After executing above command, your web-browser will open displaying the message of “Hello World”.
+
+
 
 
