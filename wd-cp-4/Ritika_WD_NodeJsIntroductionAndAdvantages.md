@@ -44,4 +44,14 @@ http.createServer(function (request, response) {
 
 ```
 
+#### 3) Step 3: : Testing the application request and response
+
+Open command-line and execute the program by typing, <br>
+
+```
+$ node main.js
+
+```
+
+
 
