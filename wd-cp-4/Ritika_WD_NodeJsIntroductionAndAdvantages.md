@@ -34,7 +34,7 @@ We use the above variable and call *createServer()* method to create server inst
 ``` 
 http.createServer(function (request, response) {  
    // Send the HTTP header  
-  // HTTP Status: 200 : OK 
+  // HTTP Status: 200 : OK :ok:
   // Content Type: text/plain 
   response.writeHead(200, {'Content-Type': 'text/plain'});
    
