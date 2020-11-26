@@ -86,7 +86,7 @@ $ node main.js
 <br>
 <br>
 
-  &nbsp;  &nbsp;  &nbsp; Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/) <br>
+  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/) <br>
    &nbsp;  &nbsp;  &nbsp; I hope you gained some knowldege and had fun reading this Nodejs Readme.md <br>
    &nbsp;  &nbsp;  &nbsp; Connect with me on [Twitter](https://twitter.com/RitikaAgrawal08).
 
