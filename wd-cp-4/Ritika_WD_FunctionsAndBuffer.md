@@ -30,6 +30,23 @@ The output of the above code is -> <br> <br>
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606474363/function_vataor.png">
 </p>
 
+## Parameterized Functions
+To declare parameters for a function, simply list them in the parentheses. <br>
+
+**For example-** <br>
+
+```
+function display(name) {
+     console.log("parameter is " + name);
+}
+display();
+display("CSS", "HTML", 4);
+```
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606475473/function1_luanv0.png">
+</p>
+
 # Why Buffers are necessary?
 
 JavaScript is Unicode-friendly but does not know how to handle binary data. Node.js works with TCP streams and needs to read and write a file which uses binary streams of data. Using *strings* in these cases was the first approach by many developers but later it caused many problems because of which buffers were introduced. <br> <br>
