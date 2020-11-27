@@ -94,7 +94,6 @@ padding : Top Right Bottom Left <u>Side</u><br/>
 <h2>
 ⚙ Things to Remember ⚙<br/>
 </h2>
-<iframe src="https://giphy.com/embed/gLpFSaWgZmcG6z17iT" frameBorder="0" allowFullScreen></iframe>
 <h4>
 <ul>
 <li>Default box behaviour of element will be content-box .</li>
