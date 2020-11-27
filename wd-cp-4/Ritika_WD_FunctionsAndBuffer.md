@@ -42,5 +42,5 @@ console.log(buf);
 ```
 The output of the above code is -> <br> <br>
 <p align="center">
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466907/buffer1_o1idhe.png">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606467323/buffer2_lsmfse.png">
 </p>
