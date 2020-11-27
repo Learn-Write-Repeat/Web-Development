@@ -43,7 +43,9 @@ Functional components do not have access to lifecycle functions like class-based
 -   You pass props down to class components and access them with  `this.props`
 
 
+
 **Author:**
+
 Anoop Varghese
 
 Website:  [www.anoopv.me](http://www.anoopv.me)
