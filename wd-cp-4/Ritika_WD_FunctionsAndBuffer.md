@@ -1,5 +1,38 @@
 ## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> In this Readme.md we will study functions and buffers :dolphin:
 
+# Functions
+A function is a block of code which is used to perform a particular function. In node.js, they are fully typed objects that can be manipulated, extended, and passed around as data.
+
+#### Structure of a function
+```
+function functionName() {
+   // function body
+   // optional return; 
+}
+```
+<br>
+<br>
+
+| Note: All functions return a value. In case a return value is not mentioned then the function returns undefined.
+
+**For example-** <br>
+```
+function function1() { 
+   return "hello"; 
+} 
+console.log(function1()); // hello
+
+function function2() { 
+} 
+console.log(function2()); // undefined 
+
+```
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606474363/function_vataor.png">
+</p>
+
+
 JavaScript is Unicode-friendly but does not know how to handle binary data. Node.js works with TCP streams and needs to read and write a file which uses binary streams of data. Using *strings* in these cases was the first approach by many developers but later it caused many problems because of which buffers were introduced.
 
 # Buffers
