@@ -24,7 +24,21 @@ Creating an empty buffer of length 20 -> <br>
 ```
 var buf = Buffer.alloc(20);
 console.log(buf);
-\\ this is print 20 bytes of zero
+// this is print 20 bytes of zero
+// instead of Buffer.alloc(20), new Buffer(20) can also be used
+```
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466907/buffer1_o1idhe.png">
+</p>
+
+#### Case 2 
+Creating an initialized buffer of length 10 -> <br>
+```
+var buf = Buffer.from([ 8, 6, 7, 5, 3, 0, 9, 1]);
+console.log(buf);
+// this is print 8 bytes of values mentioned
+// instead of Buffer.from([ 8, 6, 7, 5, 3, 0, 9, 1]), new Buffer([ 8, 6, 7, 5, 3, 0, 9, 1]) can also be used
 ```
 The output of the above code is -> <br> <br>
 <p align="center">
