@@ -11,5 +11,7 @@ The following code converts string "abcdef" into binary data and prints it to co
 var buf = Buffer.from('abcdef');
 console.log(buf);
 ```
-The output of the above code is -><br>
+The output of the above code is -> <br> <br>
+<p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466409/buffer_vlbxt9.png">
+</p>
