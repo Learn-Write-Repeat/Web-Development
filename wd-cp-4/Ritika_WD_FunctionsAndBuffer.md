@@ -47,6 +47,29 @@ The output of the above code is -> <br> <br>
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606475473/function1_luanv0.png">
 </p>
 
+| Note: If too few parameters are passed into a function call, the resulting variables are assigned the value undefined. If too many are passed in, the extras are simply unused.
+
+## Functions Scope
+Every time a function is called, a new variable scope is created. Variables declared in the parent scope are available to that function. Variables declared within a function are not available outisde it. <br>
+
+**For example-** <br>
+
+```
+var value= 25 ;
+
+function printValue() {
+     var value = 30 ;
+     console.log(value);
+ }
+
+printValue();
+console.log(value);
+```
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606475812/function2_sgfacp.png">
+</p>
+
 # Why Buffers are necessary?
 
 JavaScript is Unicode-friendly but does not know how to handle binary data. Node.js works with TCP streams and needs to read and write a file which uses binary streams of data. Using *strings* in these cases was the first approach by many developers but later it caused many problems because of which buffers were introduced. <br> <br>
