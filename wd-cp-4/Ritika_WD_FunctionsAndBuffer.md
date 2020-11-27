@@ -87,7 +87,6 @@ We use the following syntax to read from buffers -> <br>
 <p align ="center">
   buf.toString([encoding][, start][, end])
 </p>
->
 - encoding − Encoding to use. ('utf8' is the default encoding) <br>
 - start − Beginning index to start reading (defaults to 0) <br>
 - end − End index to end reading (default is complete buffer) 
@@ -110,6 +109,8 @@ The output of the above code is -> <br> <br>
 
 ## Below are some buffer methods 
 
+<br>
+
 | Method | Description |
 | :-------: | :----------: |
 | compare() | compares two buffers |
@@ -121,7 +122,7 @@ The output of the above code is -> <br> <br>
 | toJSON() | returns JSON of the buffer |
 | values() | returns an array of values of a buffer |
 
-<br> <br>
+<br> <br> <br> <br>
 
   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/) :blush: <br>
   
