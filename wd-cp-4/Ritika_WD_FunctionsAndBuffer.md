@@ -108,12 +108,20 @@ The output of the above code is -> <br> <br>
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606468785/buffer5_kkyexk.png">
 </p>
 
-### Below are some buffer methods 
+## Below are some buffer methods 
 
 | Method | Description |
 | :-------: | :----------: |
 | compare() | compares two buffers |
 | concat() | concatenates one buffer object to another |
+| copy() | copies the speicfied number of bytes of a buffer |
+| equals() | compares two buffers and returns true if matched |
+| slice() | slices a buffer into a new buffer starting and ending at specified locations |
+| toString() | converts a buffer to string |
+| toJSON() | returns JSON of the buffer |
+| values() | returns an array of values of a buffer |
+
+<br> <br>
 
   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Written by [Ritika Agrawal](https://github.com/Ritika-Agrawal811/) :blush: <br>
   
