@@ -49,3 +49,14 @@ New features of ES7
 
 Also ES6 is modern JavaScript and ES7 has less change than ES6, so users will feel better to use ES6.
 
+### Sefat Siddiquea
+
+<a href="https://www.linkedin.com/in/sefat-siddiquea-9394721a9/"> <img align="left" alt="07Satyam | LinkedIn" width="28px"
+ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
+<a href="https://github.com/sifa123"> <img align="left" alt="GitHub" width="28px"
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+</a>
+<a href="https://twitter.com/Sifa_bd">
+<img align="left" alt="07Satyam | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
