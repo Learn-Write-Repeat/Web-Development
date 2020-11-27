@@ -26,6 +26,7 @@ var buf = Buffer.alloc(20);
 console.log(buf);
 \\ this is print 20 bytes of zero
 ```
+The output of the above code is -> <br> <br>
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466907/buffer1_o1idhe.png">
 </p>
