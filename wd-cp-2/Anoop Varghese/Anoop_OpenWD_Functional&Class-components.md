@@ -1,4 +1,4 @@
-#  Intro to Functional Component and Class Components
+#  Introduction to Functional Components and Class Components
 
 Components are the building blocks of any React app. Components allow us split the UI into independent and reusable pieces.
 
@@ -45,5 +45,8 @@ Functional components do not have access to lifecycle functions like class-based
 
 **Author:**
 Anoop Varghese
+
 Website:  [www.anoopv.me](http://www.anoopv.me)
+
 LinkedIn:  [Connect](https://www.linkedin.com/in/anoopv1234/)
+
