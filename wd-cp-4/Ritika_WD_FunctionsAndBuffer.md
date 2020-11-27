@@ -17,7 +17,7 @@ The output of the above code is -> <br> <br>
 </p>
 
 ## Let's Create Buffers
-There are a few ways to create buffers <br>
+There are a few ways to create buffers. <br>
 
 #### Case 1 
 Creating an empty buffer of length 20 -> <br>
@@ -25,7 +25,7 @@ Creating an empty buffer of length 20 -> <br>
 var buf = Buffer.alloc(20);
 console.log(buf);
 // this is print 20 bytes of zero
-// instead of Buffer.alloc(20), new Buffer(20) can also be used
+
 ```
 The output of the above code is -> <br> <br>
 <p align="center">
@@ -38,7 +38,7 @@ Creating an initialized buffer of length 10 -> <br>
 var buf = Buffer.from([ 8, 6, 7, 5, 3, 0, 9, 1]);
 console.log(buf);
 // this is print 8 bytes of values mentioned
-// instead of Buffer.from([ 8, 6, 7, 5, 3, 0, 9, 1]), new Buffer([ 8, 6, 7, 5, 3, 0, 9, 1]) can also be used
+
 ```
 The output of the above code is -> <br> <br>
 <p align="center">
@@ -51,9 +51,33 @@ Creating a buffer from a given string -> <br>
 var buf = Buffer.from("I'm a string!", "utf-8");
 console.log(buf);
 // this is print 8 bytes of values mentioned
-// instead of Buffer.from("I'm a string!", "utf-8"), new Buffer("I'm a string!", "utf-8") can also be used
+
 ```
 The output of the above code is -> <br> <br>
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606467639/buffer3_cwjggd.png">
+</p>
+
+## Writing to Buffers
+We use the following syntax to write to buffers -> <br>
+<p align ="center">
+  buf.write(string[, offset][, length][, encoding])
+</p>
+
+- string − mentions string data to be written to buffer <br>
+- offset − index of the buffer to start writing at (Default value is 0) <br>
+- length − the number of bytes to write <br>
+- encoding − Encoding to use. ('utf8' is the default encoding) <br>
+
+#### Code
+
+```
+buf = Buffer.alloc(100);
+len = buf.write("Simply Easy Learning");
+console.log("Octets written : "+  len);
+```
+
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606468321/buffer4_qhxc24.png">
 </p>
