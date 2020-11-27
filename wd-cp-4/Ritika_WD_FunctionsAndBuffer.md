@@ -81,3 +81,29 @@ The output of the above code is -> <br> <br>
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606468321/buffer4_qhxc24.png">
 </p>
+
+## Reading from Buffers
+We use the following syntax to read from buffers -> <br>
+<p align ="center">
+  buf.toString([encoding][, start][, end])
+</p>
+>
+- encoding − Encoding to use. ('utf8' is the default encoding) <br>
+- start − Beginning index to start reading (defaults to 0) <br>
+- end − End index to end reading (default is complete buffer) 
+
+#### Code
+
+```
+buf = Buffer.alloc(26);
+for (var i = 0 ; i < 26 ; i++) {
+  buf[i] = i + 97;
+}
+
+console.log( buf.toString('ascii', 0, 7));
+```
+
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606468785/buffer5_kkyexk.png">
+</p>
