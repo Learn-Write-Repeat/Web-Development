@@ -44,3 +44,16 @@ The output of the above code is -> <br> <br>
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606467323/buffer2_lsmfse.png">
 </p>
+
+#### Case 3 
+Creating a buffer from a given string -> <br>
+```
+var buf = Buffer.from("I'm a string!", "utf-8");
+console.log(buf);
+// this is print 8 bytes of values mentioned
+// instead of Buffer.from("I'm a string!", "utf-8"), new Buffer("I'm a string!", "utf-8") can also be used
+```
+The output of the above code is -> <br> <br>
+<p align="center">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606467639/buffer3_cwjggd.png">
+</p>
