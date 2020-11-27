@@ -12,4 +12,4 @@ var buf = Buffer.from('abcdef');
 console.log(buf);
 ```
 The output of the above code is -><br>
-
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466409/buffer_vlbxt9.png">
