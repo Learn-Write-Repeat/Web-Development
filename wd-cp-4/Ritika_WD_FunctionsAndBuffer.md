@@ -10,8 +10,6 @@ function functionName() {
    // optional return; 
 }
 ```
-<br>
-<br>
 
 | Note: All functions return a value. In case a return value is not mentioned then the function returns undefined.
 
