@@ -125,7 +125,9 @@ Example :
 </ul>
 ```
 
-Now, using key attribute's value React will know that a new child element with key="2" has been added to the list. Hence, it’ll not update the entire list again. This will improve the speed of DOM Manipulation.
+Now, by using key attribute's value React will know that a new child element with key="2" has been added to the list. Hence, it’ll not update the entire list again. This will improve the speed of DOM Manipulation.
+
+Hence, React makes the process of DOM Manipulation very fast and makes the web page more user-friendly.
 
 Congrats :sparkler: You have completed this topic.
 
