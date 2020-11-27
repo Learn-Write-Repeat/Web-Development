@@ -1,4 +1,4 @@
-## Introduction to Functional component and Class components (Codes)
+## Introduction to Functional components and Class components (Codes)
 
 ## Functional Components
 
