@@ -20,7 +20,7 @@ ES6 is an next-gen of JavaScript, the ecma technical committee 39 governs ecma s
 
 ES6 can`t compile directly in browsers, so need an compiler from ES6 to ES5, for that compiling using  [babel](https://babeljs.io/), it produce the browser compatible javascript.
 
-ES6 includes the following new features:
+** ES6 includes the following new features: **
 * arrows
 * classes
 * enhanced object literals
@@ -38,7 +38,7 @@ ES6 includes the following new features:
 
 They decided to release a new version of ECMAScript every year starting in 2015. A yearly update means no more big releases like ES6.
 
-ECMAScript 2016(ES7) introduced only two new features:
+** ECMAScript 2016(ES7) introduced only two new features: **
 
 -   Array.prototype.includes()
 -   Exponentiation operator
