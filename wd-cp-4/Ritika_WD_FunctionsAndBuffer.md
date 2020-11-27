@@ -15,3 +15,14 @@ The output of the above code is -> <br> <br>
 <p align="center">
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606466409/buffer_vlbxt9.png">
 </p>
+
+## Let's Create Buffers
+There are a few ways to create buffers <br>
+
+#### Case 1 
+Creating an empty buffer of length 20 -> <br>
+```
+var buf = Buffer.alloc(20);
+console.log(buf);
+\\ this is print 20 bytes of zero
+```
