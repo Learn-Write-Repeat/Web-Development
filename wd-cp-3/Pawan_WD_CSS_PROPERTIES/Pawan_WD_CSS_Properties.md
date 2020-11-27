@@ -1,6 +1,6 @@
 <h2>Well hello there my Gorgeous friends on the internet.</h2>
 <hr/>
-<h2>let me introduce my self first! My name is pawan and <br/><iframe src="https://giphy.com/embed/LJnA13jCK3K8g" frameBorder="0" ></iframe><br/>Just kidding. You can Find me Here -> <a href="https://pavandeore.github.io">Portfolio</a></p><br/>
+<h2>let me introduce my self first! My name is pawan and <br/>Thats it <br/>Just kidding. You can Find me Here -> <a href="https://pavandeore.github.io">Portfolio</a></p><br/>
 Okay. So what are we looking at 
 </h2>
 <h2>⚙ Topic : Introduction to CSS Properties ⚙</h2>
