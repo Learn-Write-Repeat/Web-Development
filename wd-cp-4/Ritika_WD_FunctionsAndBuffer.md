@@ -3,7 +3,7 @@
 # Functions
 A function is a block of code which is used to perform a particular function. In node.js, they are fully typed objects that can be manipulated, extended, and passed around as data.
 
-#### Structure of a function
+#### Structure of a function ->
 ```
 function functionName() {
    // function body
