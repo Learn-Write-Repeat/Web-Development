@@ -1,6 +1,7 @@
 ## Intro to ES6 and ES7 Syntax
 
 **What is JavaScript?**
+
 According to Wikipedia, it is a scripting language that conforms to the ECMAScript specification. ES6, ES7, etc… You probably have heard those names, you also have most likely been using ES6 for a while (with Babel in a lot of cases).
 
 ![JS image](https://res.cloudinary.com/practicaldev/image/fetch/s--vp1sr2L0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/goh1l649nxvhok278x8g.jpg)
