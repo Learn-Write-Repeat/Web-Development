@@ -33,6 +33,7 @@ ES6 includes the following new features:
 * unicode
 
 **ECMAScript 7(2016)**
+
 ![ES7 image](https://miro.medium.com/max/2892/1*JhDw7yiwv5YOJIncUhCXQg.png)
 
 They decided to release a new version of ECMAScript every year starting in 2015. A yearly update means no more big releases like ES6.
