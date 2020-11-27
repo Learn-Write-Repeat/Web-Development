@@ -1,0 +1,91 @@
+#  Intro to WebPack and Babel
+Webpack lets us use **require()** in our source code to point to local files, like images, and decide how they're processed in your final Javascript bundle,
+like replacing the path with a URL pointing to a CDN.
+
+### Simple way to use WebPacks
+1. using ` npm ` (node js)
+2. open terminal
+3. navigate to the folder.
+4. ` npm init ` (initialize the project )
+it opens a Package.json file for us and it manages all our files in that project
+5. ` npm install webpack --save-dev ` (says we don't need it for production)
+6. go to package.json and add script ` "build" :"webpack src/js/app.js dist/bundle.js" ` 
+(targets the webpack package we downloaded)
+7. now adjust the app.js: (give webpack a clue on what it depends on)
+add ` import {variables} './dom-loader' ; ` in the top.
+8. ` export  dom-loader.js ` in the Js file 
+9. ` npm run build `
+(WebPack has created a bundle for us)
+10. In Index.html we can add our ` <script src = "dist/bundle.js> </script> `
+
+##### It will work properly and we only have 1 import now. WebPack adds them in bundle and manages it for us.
+
+
+## How to use Babel:
+
+1. Using the CDN
+2. we can run Babel by just running
+``` 
+npx babel script.js 
+```
+3. Or by configuring it like:
+``` 
+npm install --save-dev \ @babel/plugin-transform-arrow-functions
+```
+then to download the package in the node_modules folder:
+``` {
+  "plugins": ["@babel/plugin-transform-arrow-functions"]
+}
+```
+
+
+## Babel Example: 
+
+### what we write  ( Modern JavaScript code):
+```
+var a = () => {};
+var a = (b) => b;
+
+const double = [1,2,3].map((num) => num * 2);
+console.log(double); // [2,4,6]
+
+var bob = {
+  _name: "Bob",
+  _friends: ["Sally", "Tom"],
+  printFriends() {
+    this._friends.forEach(f =>
+      console.log(this._name + " knows " + f));
+  }
+};
+console.log(bob.printFriends());
+```
+### what is interpreted:
+
+```
+var a = function () {};var a = function (b) {
+  return b;
+};
+
+const double = [1, 2, 3].map(function (num) {
+  return num * 2;
+});console.log(double); // [2,4,6]
+
+var bob = {
+  _name: "Bob",
+  _friends: ["Sally", "Tom"],
+  printFriends() {
+    var _this = this;
+
+    this._friends.forEach(function (f) {
+      return console.log(_this._name + " knows " + f);
+    });
+  }
+};
+console.log(bob.printFriends());
+```
+## Contributed by: 
+Manasa preeya
+
+:email: manasapreeya01@gmail.com
+
+:wave: Instagram: @manasa___1 GitHub: Manasapreeya
