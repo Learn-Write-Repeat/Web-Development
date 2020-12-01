@@ -12,21 +12,18 @@
 
 ## Toics that you neeed to do the research
 
-> Intro to NodeJS framework
+> Deep dive into NodeJS framework
 
-1. What is NodeJS?
-2. Advantages of Node JS
-3. Traditional Web Server Mode
-4. Node.js Process Mode
-5. intro to REPL
-6. Intro to 
-   * Functions
-   * Buffer
-   * Module
-   * Module Types
-   * Core Modules
-   * Local Modules
-   * Module.Exports
-7. Intro to Node Package manager
-8. How to install package locally and globally
-9. Intro to ExpressJS
+1. Intro to FileSystem using NodeJS
+2. Intro to Core Node JS debugger
+3. Intro to NodeJS Events
+    * Intro to EventEmitter class
+    * Returning event emitter
+    * Inhering events
+4. Intro to Routing
+    * Configuring routes
+    * Serving static files
+    * Working with middle ware
+    * Working with AuthGuards
+    * Working with AuthIntercetors
+5. Intro to MongoDB and Sequelize (SQL TypeORM)
