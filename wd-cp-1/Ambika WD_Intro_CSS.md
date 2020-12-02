@@ -3,10 +3,10 @@
 
 :white_square_button: **What is CSS?**
 
-CSS stands for Cascading Style Sheets
-CSS describes how HTML elements are to be displayed on screen, paper, or in other media
-CSS saves a lot of work. It can control the layout of multiple web pages all at once
-External stylesheets are stored in CSS files
+* CSS stands for Cascading Style Sheets
+* CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+* CSS saves a lot of work. It can control the layout of multiple web pages all at once
+* External stylesheets are stored in CSS files
 
 :white_square_button:**Types Of CSS**
 
@@ -80,16 +80,27 @@ Follow these steps to use external CSS:
   
 3.Don’t forget to change style.css with the name of your .css file.
 
+:white_square_button: **Why Use CSS**
+
+CSS helps you to keep the informational content of a document separate from the details of how to display it. The details of how to display the document are known as its style. You keep the style separate from the content so that you can:
+
+* Avoid duplication
+* Make maintenance easier
+* Use the same content with different styles for different purposes
+Your web site might have thousands of pages that look similar. Using CSS, you store the style information in common files that all the pages share. When a user displays a web page, the user’s browser loads the style information along with the content of the page. When a user prints a web page, you might provide different style information that makes the printed page easy to read.
+
+In general, you use HTML to describe the content of the document, not its style; you use CSS to specify its style, not its content. There are exceptions to this rule, of course, and HTML also provides some ways to specify style. For example, in HTML you can use a <b> tag to make text bold, and you can specify the background colour of a page in its <body> tag. When you use CSS, you normally avoid using these HTML style features so that all your document’s style information is in one place.
+  
 # Benifits of CSS : 
 
-*Easier to maintain and update
-*Greater consistency in design
-*More formatting options
-*Lightweight code
-*Faster download times
-*Search engine optimization benefits
-*Ease of presenting different styles to different viewers
-*Greater accessibility
+* Easier to maintain and update
+* Greater consistency in design
+* More formatting options
+* Lightweight code
+* Faster download times
+* Search engine optimization benefits
+* Ease of presenting different styles to different viewers
+* Greater accessibility
 
 *Hope you Enjoy it!!!*
 
