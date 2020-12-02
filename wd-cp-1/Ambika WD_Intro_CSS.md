@@ -1,14 +1,14 @@
 
-# CSS:#
+# CSS:
 
-:white_square_button: ## What is CSS? 
+:white_square_button: **What is CSS? 
 
 CSS stands for Cascading Style Sheets
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 CSS saves a lot of work. It can control the layout of multiple web pages all at once
 External stylesheets are stored in CSS files
 
-:white_square_button:**Types Of CSS**
+:white_square_button:**Types Of CSS
 
 1.Inline CSS : Inline CSS is used to style a specific HTML element. For this CSS style, you’ll only need to add the style attribute to each HTML tag, without using selectors.
 
@@ -84,7 +84,7 @@ Follow these steps to use external CSS:
   
 3.Don’t forget to change style.css with the name of your .css file.
 
-:white_square_button:## Benifits of CSS : 
+# Benifits of CSS : 
 
 *Easier to maintain and update
 *Greater consistency in design
