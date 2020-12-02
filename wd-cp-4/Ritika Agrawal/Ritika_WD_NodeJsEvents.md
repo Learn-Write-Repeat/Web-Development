@@ -52,4 +52,8 @@ event_object.emit('event_name');
 | Method | Description |
 | :-------:| :----------:|
 | addListener(event, listener) | Adds a listener at the end of the listeners array for the specified event. |
+| on(event, listener) |  Adds a listener at the end of the listeners array for the specified event. |
+| once(event, listener) | Adds a one time listener to the event. This listener is invoked only the next time the event is fired, after which it is removed. |
+| removeListener(event, listener) | Removes a listener from the listener array for the specified event. |
+| emit(event, [arg1], [arg2], [...]) | Execute each of the listeners in order with the supplied arguments.|
 
