@@ -59,7 +59,7 @@ var event_object = new events.EventEmitter();
 <br>
 
 ## Below are some of the methods of EventEmitter class used to handle events:hourglass: :
-| Method | Description |
+| Method :soccer: | Description  :point_down: |
 | :-------:| :----------:|
 | addListener(event, listener) | Adds a listener at the end of the listeners array for the specified event. |
 | on(event, listener) |  Adds a listener at the end of the listeners array for the specified event. |
@@ -106,7 +106,7 @@ temp.on('AfterProcess', function(data){
 });
 
 ```
-The output of the above code is ->
+The output of the above code is :eyes: ->
 <p align="center">
   <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919137/event1_yuotht.png">
 </p>
@@ -147,7 +147,7 @@ temp.on('AfterProcess', function(data){
 });
 
 ```
-The output of the above code is -> 
+The output of the above code is :eyes: -> 
 <p align="center">
 	<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919535/event2_t44ezn.png">
 </p>
