@@ -1,11 +1,14 @@
-**What is CSS?**
+
+#CSS:#
+
+:white_square_button:##What is CSS?##
 
 CSS stands for Cascading Style Sheets
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 CSS saves a lot of work. It can control the layout of multiple web pages all at once
 External stylesheets are stored in CSS files
 
-**Types Of CSS
+:white_square_button:**Types Of CSS**
 
 1.Inline CSS : Inline CSS is used to style a specific HTML element. For this CSS style, you’ll only need to add the style attribute to each HTML tag, without using selectors.
 
@@ -52,7 +55,7 @@ h1 {
 </head>
 <body>
 
-<h1>Hostinger Tutorials</h1>
+<h1>CSS means Cascading Style Sheets</h1>
 <p>This is our paragraph.</p>
 
 </body>
@@ -80,3 +83,18 @@ Follow these steps to use external CSS:
   <link rel="stylesheet" type="text/css" href="style.css" />
   
 3.Don’t forget to change style.css with the name of your .css file.
+
+:white_square_button:##Benifits of CSS :##
+
+*Easier to maintain and update
+*Greater consistency in design
+*More formatting options
+*Lightweight code
+*Faster download times
+*Search engine optimization benefits
+*Ease of presenting different styles to different viewers
+*Greater accessibility
+
+*Hope you Enjoy it!!!*
+
+📫Reach me At: My linkdin Profile https://www.linkedin.com/in/ambika-tone-95b720173?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD9aFUgIoTJmJHevVQlE9CA%3D%3D
