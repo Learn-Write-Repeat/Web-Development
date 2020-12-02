@@ -110,8 +110,8 @@ The output of the above code is ->
   <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919137/event1_yuotht.png">
 </p>
 
-### Extend EventEmitter class
-We can extend the constructor function from EventEmitter class to emit the events. <br>
+### Extend/Inheriting EventEmitter class
+We can extend the constructor function from EventEmitter class to emit the events. we use util.inherits() method to inherit from EventEmitter class. <br>
 
 ```
 var emitter = require('events').EventEmitter;
