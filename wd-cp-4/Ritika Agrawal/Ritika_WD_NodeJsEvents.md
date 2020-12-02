@@ -11,21 +11,21 @@ code. Nodejs has an in-built class named **EventEmitter** in the **events** modu
 5. Firing an event.
 
 
-#### Importing events module
+### Importing events module
 As already mentioned above **events** module of Nodejs contains EventEmitter class which is used to handle events. So this module is imported using **require** directive.
 ```
 var events = require('events');
 
 ```
 
-#### Create an EventEmitter object
+### Create an EventEmitter object
 An object of EventEmitter class is created which helps us to use the various methods provided by EventEmitter class to work with events.
 ```
 var event_object = new events.EventEmitter();
 
 ```
 
-#### Create an Event Handler
+### Create an Event Handler
 Event Handler is a piece of code that is executed in response to an event. Event Handler is basically a function which is invoked when an event is fired.
 ```
 var eventHandler = function(){
@@ -34,14 +34,14 @@ console.log("message is received");
 
 ```
 
-#### Binding Event and Event Handler
+### Binding Event and Event Handler
 on() method of EventEmitter class is used to bind together an event and event handler so that it is invoked when that event is fired.
 ```
 event_object.on('event_name',eventHandler);
 
 ```
 
-#### Fire an Event
+### Fire an Event
 emit() method is used to fire an event.
 ```
 event_object.emit('event_name');
