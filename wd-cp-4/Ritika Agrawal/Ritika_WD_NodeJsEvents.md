@@ -109,3 +109,44 @@ The output of the above code is ->
 <p align="center">
   <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919137/event1_yuotht.png">
 </p>
+
+### Extend EventEmitter class
+We can extend the constructor function from EventEmitter class to emit the events. <br>
+
+```
+var emitter = require('events').EventEmitter;
+var util = require('util');
+
+function ReturnObject(num){
+	var event_object = this;
+	
+	setTimeout( function(){
+		for(var i = 1; i<= num; i++){
+          event_object.emit('BeforeProcess',i);
+		  console.log('Processing number is: ' + i);
+		  event_object.emit('AfterProcess', i);
+		
+		}
+	}, 1000);
+	
+	return this;
+	
+}
+
+util.inherits(ReturnObject, emitter);
+
+var temp = new ReturnObject(3);
+
+temp.on('BeforeProcess', function(data){
+	console.log('Starting process for: ' + data);
+});
+
+temp.on('AfterProcess', function(data){
+	console.log('Completed processing:' + data);
+});
+
+```
+The output of the above code is -> 
+<p align="center">
+	<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919535/event2_t44ezn.png">
+</p>
