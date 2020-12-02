@@ -1,7 +1,7 @@
 
-#CSS:#
+# CSS:#
 
-:white_square_button:##What is CSS?##
+:white_square_button: ## What is CSS? 
 
 CSS stands for Cascading Style Sheets
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media
@@ -36,7 +36,7 @@ This CSS style is an effective method of styling a single page. However, using t
 Here’s how you can use internal CSS:
 
 Open your HTML page and locate <head> opening tag.
-Put the following code right after the <head> tag
+Put the following code right after the <head>tag
 
 **Code**
 
@@ -49,7 +49,7 @@ body {
 }
 h1 {
     color: red;
-    padding: 60px;
+    padding: 30px;
 } 
 </style>
 </head>
@@ -84,7 +84,7 @@ Follow these steps to use external CSS:
   
 3.Don’t forget to change style.css with the name of your .css file.
 
-:white_square_button:##Benifits of CSS :##
+:white_square_button:## Benifits of CSS : 
 
 *Easier to maintain and update
 *Greater consistency in design
