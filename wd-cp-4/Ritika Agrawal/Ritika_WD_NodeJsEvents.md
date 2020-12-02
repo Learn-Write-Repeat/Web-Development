@@ -67,3 +67,45 @@ var event_object = new events.EventEmitter();
 | emit(event, [arg1], [arg2], [...]) | Execute each of the listeners in order with the supplied arguments.|
 | listeners(event) | Returns an array of listeners for the specified event.|
 
+## Two ways to bind and raise an event
+There are two ways used to raise and bind an event using EventEmitter class in Nodejs. <br>
+1. Return EventEmitter from a function <br>
+2. Extend EventEmitter class <br>
+
+### Return EventEmitter from a function
+In the below code, inside a function we are creating an object of EventEmitter class and then returning it. Then we use the return value of the object to bind an event.
+
+```
+var emitter = require('events').EventEmitter;
+
+function ReturnObject(num){
+	var event_object = new emitter();
+	
+	setTimeout( function(){
+		for(var i = 1; i<= num; i++){
+          event_object.emit('BeforeProcess',i);
+		  console.log('Processing number is: ' + i);
+		  event_object.emit('AfterProcess', i);
+		
+		}
+	}, 1000);
+	
+	return event_object;
+	
+}
+
+var temp = ReturnObject(5);
+
+temp.on('BeforeProcess', function(data){
+	console.log('Starting process for: ' + data);
+});
+
+temp.on('AfterProcess', function(data){
+	console.log('Completed processing:' + data);
+});
+
+```
+The output of the above code is ->
+<p align="center">
+  <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919137/event1_yuotht.png">
+</p>
