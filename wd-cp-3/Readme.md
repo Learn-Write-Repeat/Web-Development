@@ -13,13 +13,12 @@
 
 > Intro to Cascading Style Sheet
 
-1. Intro to basic styling
-2.  Benefits of CSS
-3.  CSS Versions HistoryExternal Style Sheet using <link>
-3.  Multiple Style Sheets
-4.  Value Lengths and Percentages
-5.  ID and Class Selectors
-6.  Grouping adn Universal Selectors
-7.  Intro to Box model
-8.  Intro to CSS properties (margin, padding, top, bottom, right etc)
-  
+1. Advanced CSS
+2.  CSS display techniques
+3.  Intro to Flexbox
+3.  Flexbox all properties
+4. Intro to CSS Grid
+5.  CSS- Grid all properties
+6.  Intro to responsive Design
+7.  Diffrent Breakpoints in responsive design
+8.  Intro to Media Queries

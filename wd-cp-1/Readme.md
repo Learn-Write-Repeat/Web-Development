@@ -11,18 +11,14 @@
 
 ## Toics that you neeed to do the research
 
-> Intro to basic HTML
-   
-  1. History of HTML
-  2. What you need to do to get going and make your first HTML page
-  3. What are HTML Tags and Attributes?
-  4. HTML Tag vs. Element
-  5. HTML Attributes
-  6. Div and Span Tags for Grouping 
-  7. How to differentiate HTML Document Versions
-  8. What happens when you enter www.google.com in your browser, you've to be as detail as possible
-   Hint: You need to do research about DNS and networking.
-  9. Intro to metaTags, OGTags and other media tags along with manifest.xml file
-  10. Intro HTML Forms
-  11. Intro to HTML headers
+> Intro to Cascading Style Sheet
 
+1. Intro to basic styling
+2.  Benefits of CSS
+3.  CSS Versions HistoryExternal Style Sheet using <link>
+3.  Multiple Style Sheets
+4.  Value Lengths and Percentages
+5.  ID and Class Selectors
+6.  Grouping adn Universal Selectors
+7.  Intro to Box model
+8.  Intro to CSS properties (margin, padding, top, bottom, right etc)
