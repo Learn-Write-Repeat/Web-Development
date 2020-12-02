@@ -1,9 +1,10 @@
+## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> In this Readme.md we will study Events and EventEmitter class :dolphin:
 
-# What are Events?
+# What are Events? :smiley:
 Events are actions recognized by a software like opening or closing a file. In a programming language, an events is an action that initiates the execution of another piece of 
 code. Nodejs has an in-built class named **EventEmitter** in the **events** module which is used to create ,fire and listen for user-built events. AlThough nodejs is a single threaded application, it supports concurrency with the help of events and callbacks. Using events makes nodejs very fast. Whenever an event gets fired, its listener function starts executing. These Listener functions are called Observers.
 
-## Handling of events requires 5 main steps: <br>
+## Handling of events requires 5 main steps :+1: : <br>
 1. Importing events module using *require* directive. <br>
 2. Creating an EventEmitter object. <br>
 3. Creating an Event Handler. <br>
@@ -11,21 +12,21 @@ code. Nodejs has an in-built class named **EventEmitter** in the **events** modu
 5. Firing an event.
 
 
-### Importing events module
+### Importing events module :snowflake:
 As already mentioned above **events** module of Nodejs contains EventEmitter class which is used to handle events. So this module is imported using **require** directive.
 ```
 var events = require('events');
 
 ```
 
-### Create an EventEmitter object
+### Create an EventEmitter object :snowflake:
 An object of EventEmitter class is created which helps us to use the various methods provided by EventEmitter class to work with events.
 ```
 var event_object = new events.EventEmitter();
 
 ```
 
-### Create an Event Handler
+### Create an Event Handler :snowflake:
 Event Handler is a piece of code that is executed in response to an event. Event Handler is basically a function which is invoked when an event is fired.
 ```
 var eventHandler = function(){
@@ -34,20 +35,20 @@ console.log("message is received");
 
 ```
 
-### Binding Event and Event Handler
+### Binding Event and Event Handler :snowflake:
 on() method of EventEmitter class is used to bind together an event and event handler so that it is invoked when that event is fired.
 ```
 event_object.on('event_name',eventHandler);
 
 ```
 
-### Fire an Event
+### Fire an Event :snowflake:
 emit() method is used to fire an event.
 ```
 event_object.emit('event_name');
 
 ```
-# Intro to EventEmitter Class
+# Intro to EventEmitter Class :computer:
 EventEmitter class provides various in-built methods used to raise and handle custom events. It provides multiple properties like on and emit. on property is used to bind a function with the event and emit is used to fire an event. <br>
 
 **An object of EventEmitter class is created and used to invoke methods of EventEmitter class using the following code ->** <br>
@@ -57,7 +58,7 @@ var event_object = new events.EventEmitter();
 ```
 <br>
 
-## Below are some of the methods of EventEmitter class used to handle events:
+## Below are some of the methods of EventEmitter class used to handle events:hourglass: :
 | Method | Description |
 | :-------:| :----------:|
 | addListener(event, listener) | Adds a listener at the end of the listeners array for the specified event. |
@@ -67,12 +68,12 @@ var event_object = new events.EventEmitter();
 | emit(event, [arg1], [arg2], [...]) | Execute each of the listeners in order with the supplied arguments.|
 | listeners(event) | Returns an array of listeners for the specified event.|
 
-## Two ways to bind and raise an event
+## Two ways to bind and raise an event :envelope:
 There are two ways used to raise and bind an event using EventEmitter class in Nodejs. <br>
 1. Return EventEmitter from a function <br>
 2. Extend EventEmitter class <br>
 
-### Return EventEmitter from a function
+### Return EventEmitter from a function :pushpin:
 In the below code, inside a function we are creating an object of EventEmitter class and then returning it. Then we use the return value of the object to bind an event.
 
 ```
@@ -110,7 +111,7 @@ The output of the above code is ->
   <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1606919137/event1_yuotht.png">
 </p>
 
-### Extend/Inheriting EventEmitter class
+### Extend/Inheriting EventEmitter class :pushpin:
 We can extend the constructor function from EventEmitter class to emit the events. we use util.inherits() method to inherit from EventEmitter class. <br>
 
 ```
