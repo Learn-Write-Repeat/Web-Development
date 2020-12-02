@@ -1,21 +1,19 @@
 
-# CSS:
+# CSS
 
-:white_square_button: **What is CSS? 
+:white_square_button: **What is CSS?**
 
 CSS stands for Cascading Style Sheets
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 CSS saves a lot of work. It can control the layout of multiple web pages all at once
 External stylesheets are stored in CSS files
 
-:white_square_button:**Types Of CSS
+:white_square_button:**Types Of CSS**
 
 1.Inline CSS : Inline CSS is used to style a specific HTML element. For this CSS style, you’ll only need to add the style attribute to each HTML tag, without using selectors.
-
-This CSS type is not really recommended, as each HTML tag needs to be styled individually. Managing your website may become too hard if you only use inline CSS.
-
-However, inline CSS in HTML can be useful in some situations. For example, in cases where you don’t have access to CSS files or need to apply styles for a single element only.
-Let’s take a look at an example. Here, we add an inline CSS to the <p> and <h1> tag:
+               This CSS type is not really recommended, as each HTML tag needs to be styled individually. Managing your website may become too hard if you only use inline CSS.
+               However, inline CSS in HTML can be useful in some situations. For example, in cases where you don’t have access to CSS files or need to apply styles for a single                element only.
+Let’s take a look at an example. Here, we add an inline CSS 
 
 **Code**
 
@@ -30,8 +28,7 @@ Let’s take a look at an example. Here, we add an inline CSS to the <p> and <h1
 </html>
 
 2.Internal CSS : Internal or embedded CSS requires you to add <style> tag in the <head> section of your HTML document.
-
-This CSS style is an effective method of styling a single page. However, using this style for multiple pages is time-consuming as you need to put CSS rules to every page of your website.
+                 This CSS style is an effective method of styling a single page. However, using this style for multiple pages is time-consuming as you need to put CSS rules to                  every page of your website.
 
 Here’s how you can use internal CSS:
 
@@ -62,8 +59,7 @@ h1 {
 </html>
 
 3.External CSS : With external CSS, you’ll link your web pages to an external .css file, which can be created by any text editor in your device (e.g., Notepad++).
-
-This CSS type is a more efficient method, especially for styling a large website. By editing one .css file, you can change your entire site at once.
+                 This CSS type is a more efficient method, especially for styling a large website. By editing one .css file, you can change your entire site at once.
 
 Follow these steps to use external CSS:
 
