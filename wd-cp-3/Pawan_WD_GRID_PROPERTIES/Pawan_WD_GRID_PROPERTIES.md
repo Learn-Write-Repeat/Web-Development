@@ -261,7 +261,7 @@ We are supposed to assign component value to our required divisions using <kbd>g
 
 </h4>
 </p>
-<h5>If you prefer to learn grid by playing you can visit <a href="https://cssgridgarden.com/">CSS Grid Garden 🔗</a></h5>
+<h5>If you prefer to learn grid by playing you can visit <a target="_blank" href="https://cssgridgarden.com/">CSS Grid Garden 🔗</a></h5>
 <p>
 Always change the values and play around with code, this will give you better understanding. 
 </p>

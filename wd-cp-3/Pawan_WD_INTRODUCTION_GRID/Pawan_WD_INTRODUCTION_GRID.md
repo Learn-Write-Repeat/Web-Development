@@ -10,8 +10,11 @@ Okay. So what are we looking at
 <h4>CSS grid is a layout method that supports 2D system. Basically it can handle both columns and rows, if we consider our webpage layout in terms of columns and rows. CSS grid gives you more control on your layout, you can assign rules to the parent.
 </h4>
 <h4>
+So basically what we do in CSS Grid is actually divide our design components into rows and columns. with the help of GRID we can design complex structures in simple manner.
+</h4>
+<h4>
 Okay so.
-Take a look at this layout.<br/>
+Take a look at this layout. We will try to understand GRID working by building this layout.<br/>
 <img src="./Images/layout.png" /><br/>
  We are going to build this layout.
 </h4>
