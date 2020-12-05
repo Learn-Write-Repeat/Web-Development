@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://miro.medium.com/max/600/1*3bRc_w8bvE7zbuxISQUukQ.png" width="500px"  ></p>
  
- ### Types of React Components Discussed
+ ### Types of React Components 
  1. **Functional Components**
     - In simple words, Functional components are javascript functions. By writing a javascript function, we can create a functional component in React Apps.Functional components do not require data from other components. Functional components are usually used to display information. They are easy to read, debug, and test.
     - Functions that return JSX. Can do more stuff with React Hooks.
