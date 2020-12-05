@@ -15,7 +15,7 @@ Using the reference of the child component, we can call any method of child from
 
 
 2. **Case 2: Child to Parent communication**
-   -Data from a child can be passed to the parent using a callback. This can be achieved by using the following steps.
+   - Data from a child can be passed to the parent using a callback. This can be achieved by using the following steps.
    - 1. Create a callback method in parent and pass it to the child using props.
    - 2. Child can call this method using “this.props.[yourCallbackName]” form child and pass data as argument.
    
