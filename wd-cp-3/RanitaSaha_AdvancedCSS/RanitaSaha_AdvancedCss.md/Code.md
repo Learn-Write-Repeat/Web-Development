@@ -1,4 +1,4 @@
-# :computer:The Basic Styling of CSS :computer:
+# :computer:The Advanced CSS :computer:
 
 - ## The Advanced CSS :pushpin:
 
