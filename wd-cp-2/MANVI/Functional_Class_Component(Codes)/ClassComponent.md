@@ -18,9 +18,9 @@ const increment = () =>{
 render(){ 
 	return ( 
 		<div> 
-		     <h3>Counter using Class Componenet : </h3> 
+		     <h1>Counter using Class Componenet : </h1> 
 		     <h2> {this.state.count}</h2> 
-		     <button onClick={this.increase}> Click Me</button> 
+		     <button onClick={this.increment}> Click Me</button> 
 		</div> 
 	) 
 } 
