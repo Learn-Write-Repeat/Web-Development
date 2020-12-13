@@ -1,13 +1,8 @@
-# :computer:The Advanced CSS :computer:
-
-- ## The Advanced CSS :pushpin:
-
-``` html
 <html>
 <head>
-<style>	
+     <style>	
      p::first-letter{ 
-        color:red;
+                 color:red;
 	font-size:xx-large;
        }
       h1{
@@ -16,24 +11,23 @@
       a:link{
 	color:pink;
 	}
-      a:hover{
+    a:hover{
 	color:red;
 	}
-      a:active{
+     a:active{
 	color:green;
 	}
-      a:visited{
+     a:visited{
 	color:blue;
 	}
 </style>
 </head>
 <body>
-     <h1>Text</h1>
-     <a href="#">click here</a> <br>
+        <h1>Text</h1>
+    <a href="#">click here</a> <br>
      <a href="#">click here</a>
-     <p>Helloooo! I am Ranita Saha. <br>
-      Welcome to my Homepage! </p>
-      <p>This is the advanced CSS</p>
+    <p>Helloooo! I am Ranita Saha. <br>
+ Welcome to my Homepage! </p>
+<p>This is the advanced CSS</p>
 </body>
 </html>
-```
